@@ -76,13 +76,13 @@
 
 ###
 
-<h2 align="left">🚀 Current Focus: Building microservices and exploring cloud-native solutions.<br>💡 Skills: Proficient in React, Node.js, MongoDB, Docker, Kubernetes, and CI/CD pipelines.<br>📚 Learning: Exploring Blockchain Development to expand my expertise.<br>🔨 Previous Work:<br>⚓   Designed and deployed MERN-based microservices projects.<br>🚧 Implemented Redis caching for optimized API performance.<br>🏝️ Built scalable systems with Docker and Kubernetes for deployment.</h2>
-
-###
-
 <br clear="both">
 
 <img align="right" height="350" src="https://i.gifer.com/9cIT.gif"  />
+
+###
+
+<h2 align="left">🚀 Current Focus: Building microservices and exploring cloud-native solutions.<br>💡 Skills: Proficient in React, Node.js, MongoDB, Docker, Kubernetes, and CI/CD pipelines.<br>📚 Learning: Exploring Blockchain Development to expand my expertise.<br>🔨 Previous Work:<br>⚓   Designed and deployed MERN-based microservices projects.<br>🚧 Implemented Redis caching for optimized API performance.<br>🏝️ Built scalable systems with Docker and Kubernetes for deployment.</h2>
 
 ###
 
