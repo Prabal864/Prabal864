@@ -74,7 +74,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://i.gifer.com/9cIT.gif"  />
+<img align="right" height="350" src="https://i.gifer.com/9cIT.gif"  />
 
 ###
 
