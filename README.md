@@ -75,7 +75,8 @@
 <h1 align="center">🌟 About Me</h1>
 
 ###
-
+<br/>
+<br/>
 <br clear="both">
 
 <img align="right" height="360" src="https://i.gifer.com/9cIT.gif"  />
