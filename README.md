@@ -19,49 +19,107 @@
 <h1 align="center">🔧 Tools & Technologies</h1>
 
 
-<div style="background-color: #f4f4f4; padding: 20px; border-radius: 10px; width: 90%; margin: 0 auto; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
-  <table align="center" cellspacing="30" style="width: 100%; text-align: center; font-family: Arial, sans-serif; border-spacing: 20px;">
-    <!-- Tools -->
+<div align="center" style="background-color: #2C3E50; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+  <table align="center" cellspacing="50" style="width: 90%; text-align: center; font-family: Arial, sans-serif; border-spacing: 20px; color: #ECF0F1; font-size: 20px;">
     <tr>
-      <th colspan="4" style="font-size: 40px; padding: 10px; background-color: #0078D4; color: white; border-radius: 20px;">🛠 Tools</th>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=jenkins" height="80" alt="jenkins logo" /><br><strong>Jenkins</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=kafka" height="80" alt="kafka logo" /><br><strong>Apache Kafka</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=sentry" height="80" alt="sentry logo" /><br><strong>Sentry</strong></td>
-      <td><img src="https://cdn.simpleicons.org/docker/2496ED" height="80" alt="docker logo" /><br><strong>Docker</strong></td>
+      <th colspan="4" style="font-size: 36px; padding: 15px; background-color: #3498DB; color: white; border-radius: 10px; font-weight: bold;">🛠 DevOps</th>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="80" alt="azure logo" /><br><strong>Azure</strong></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="80" alt="kubernetes logo" /><br><strong>Kubernetes</strong></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80" alt="ansible logo" /><br><strong>Ansible</strong></td>
-      <td><img src="https://cdn.simpleicons.org/terraform/7B42BC" height="80" alt="terraform logo" /><br><strong>Terraform</strong></td>
-    </tr>
-
-  <tr>
-      <th colspan="4" style="font-size: 40px; padding: 10px; background-color: #FF5722; color: white; border-radius: 20px;">🌐 Frameworks</th>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="react logo" /><br><strong>React</strong></td>
-      <td><img src="https://skillicons.dev/icons?i=express" height="80" alt="express logo" /><br><strong>Express</strong></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="80" alt="spring logo" /><br><strong>Spring</strong></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="micronaut logo" /><br><strong>Micronaut</strong></td>
-    </tr>
-
-  <tr>
-      <th colspan="4" style="font-size: 40px; padding: 10px; background-color: #28A745; color: white; border-radius: 20px;">💻 Languages</th>
+      <td>
+        <img src="https://skillicons.dev/icons?i=jenkins" height="80" alt="jenkins logo" />
+        <br><strong>Jenkins</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=kafka" height="80" alt="kafka logo" />
+        <br><strong>Apache Kafka</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=sentry" height="80" alt="sentry logo" />
+        <br><strong>Sentry</strong>
+      </td>
+      <td>
+        <img src="https://cdn.simpleicons.org/docker/2496ED" height="80" alt="docker logo" />
+        <br><strong>Docker</strong>
+      </td>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="80" alt="javascript logo" /><br><strong>JavaScript</strong></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" alt="typescript logo" /><br><strong>TypeScript</strong></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="java logo" /><br><strong>Java</strong></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" alt="cplusplus logo" /><br><strong>C++</strong></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="80" alt="azure logo" />
+        <br><strong>Azure</strong>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="80" alt="kubernetes logo" />
+        <br><strong>Kubernetes</strong>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80" alt="ansible logo" />
+        <br><strong>Ansible</strong>
+      </td>
+      <td>
+        <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="80" alt="terraform logo" />
+        <br><strong>Terraform</strong>
+      </td>
+    </tr>
+    <br/>
+    <tr>
+      <th colspan="4" style="font-size: 36px; padding: 15px; background-color: #E67E22; color: white; border-radius: 10px; font-weight: bold;">🌐 Frameworks</th>
     </tr>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="c logo" /><br><strong>C</strong></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo" /><br><strong>MySQL</strong></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="80" alt="mongodb logo" /><br><strong>MongoDB</strong></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="80" alt="redis logo" /><br><strong>Redis</strong></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="react logo" />
+        <br><strong>React</strong>
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=express" height="80" alt="express logo" />
+        <br><strong>Express</strong>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="80" alt="spring logo" />
+        <br><strong>Spring</strong>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="micronaut logo" />
+        <br><strong>Micronaut</strong>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="4" style="font-size: 36px; padding: 15px; background-color: #27AE60; color: white; border-radius: 10px; font-weight: bold;">💻 Languages & Databases</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="80" alt="javascript logo" />
+        <br><strong>JavaScript</strong>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" alt="typescript logo" />
+        <br><strong>TypeScript</strong>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="java logo" />
+        <br><strong>Java</strong>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" alt="cplusplus logo" />
+        <br><strong>C++</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="c logo" />
+        <br><strong>C</strong>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo" />
+        <br><strong>MySQL</strong>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="80" alt="mongodb logo" />
+        <br><strong>MongoDB</strong>
+      </td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="80" alt="redis logo" />
+        <br><strong>Redis</strong>
+      </td>
     </tr>
   </table>
 </div>
