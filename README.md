@@ -90,8 +90,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabal864&locale=en&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="170" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=prabal864&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=false" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabal864&locale=en&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prabal864&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabal864&radius=16&theme=redical&area=true&hide_border=false" height="350" alt="activity-graph graph" />
   <img src="https://github-profile-trophy.vercel.app?username=prabal864&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=true" height="500" alt="trophy graph" />
 </div>
