@@ -94,13 +94,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabal864&radius=16&theme=redical&area=true&hide_border=false" height="350" alt="activity-graph graph" />
   <img src="https://github-profile-trophy.vercel.app?username=prabal864&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=true" height="500" alt="trophy graph" />
 </div>
-  
-
-###
 
 <h1 align="left">Contact me</h1>
-
-###
 
 <div align="center">
   <a href="www.linkedin.com/in/pps940" target="_blank">
