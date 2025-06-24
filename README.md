@@ -140,8 +140,14 @@
 
 ###
 
-<h2 align="left">🚀 Current Focus: Building microservices and exploring cloud-native solutions.<br>💡 Skills: Proficient in React, Node.js, MongoDB, Docker, Kubernetes, and CI/CD pipelines.<br>📚 Learning: Exploring Blockchain Development to expand my expertise.<br>⚓   Designed and deployed MERN-based microservices projects.<br>🚧 Implemented Redis caching for optimized API performance.<br>🏝️ Built scalable systems with Docker and Kubernetes for deployment.</h2>
-
+<h2 align="left">
+🚀 Current Focus: Building cloud-native, production-grade backend systems with Spring Boot microservices.<br>
+💡 Skills: Proficient in Java 21, Spring Boot 3, Spring Cloud Suite, OAuth2/OIDC with Keycloak, Redis, Kafka, RabbitMQ, Docker, Kubernetes, and Helm.<br>
+📚 Learning: Enhancing distributed tracing with Jaeger and mastering CI/CD automation using GitHub Actions & Jenkins.<br>
+⚓ Designed and deployed scalable microservices architectures following 15-Factor App principles.<br>
+🛡️ Implemented service resilience patterns with Resilience4j and centralized auth with Keycloak.<br>
+📊 Built production-like observability stacks using Prometheus, Grafana, and Loki for monitoring.<br>
+</h2>
 ###
 
 <br clear="both">
