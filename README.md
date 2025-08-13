@@ -1,6 +1,10 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=300&section=header&text=PRABAL%20PRATAP%20SINGH&desc=Backend%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20Cloud%20Architect&animation=fadeIn&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
+</div>
+
+<div align="center">
   <img height="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
@@ -148,6 +152,15 @@
   </tr>
 </table>
 
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<!-- Trophy Section with P tag -->
+<a href="https://github.com/prabal864">
+  <img src="https://github-profile-trophy.vercel.app?username=prabal864&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true" width="100%" alt="trophy graph" />
+</a>
+
 
 <h1 align="center">🌟 About Me</h1>
 
@@ -170,12 +183,33 @@
 
 <br clear="both">
 
+<a href="https://github.com/prabal864">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabal864&radius=16&theme=redical&area=true&hide_border=true" height="500" alt="activity-graph graph" />
+</a>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabal864&locale=en&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false" height="180" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=prabal864&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabal864&radius=16&theme=redical&area=true&hide_border=false" height="350" alt="activity-graph graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=prabal864&theme=darkhub&column=6&margin-w=8&margin-h=8&no-bg=false&no-frame=true" height="500" alt="trophy graph" />
+  <a href="https://github.com/prabal864">
+    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal864&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=e84393&border_radius=20" />
+  </a>
+  <a href="https://github.com/prabal864">
+    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=prabal864&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e84393&icon_color=e84393&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=20" />
+  </a>
 </div>
+
+<br>
+
+
+<!-- STREAK + PROFILE DETAILS -->
+<div align="center">
+  <a href="https://github.com/prabal864">
+    <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=prabal864&theme=radical&hide_border=true&background=0D1117&ring=e84393&fire=e84393&currStreakLabel=e84393&border_radius=20" />
+  </a>
+  <a href="https://github.com/prabal864">
+    <img width="49%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabal864&theme=radical&border_radius=20" />
+  </a>
+</div>
+
+
 
 <h1 align="left">Contact me</h1>
 <div align="center">
@@ -193,4 +227,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="50" alt="youtube logo"  />
 </div>
 
-###
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,13,29,35&height=150&section=footer" width="100%" />
+</div>
+
