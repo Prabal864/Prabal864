@@ -16,12 +16,10 @@
 
 ###
 
-# 💻 Technical Skills
+<h1 align="center">Technical Skills</h1>
+
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Developer;DevOps+Engineer;Cloud+Architect;Microservices+Specialist" alt="Typing SVG" />
-
-## Skills Portfolio
 
 <table>
   <tr>
@@ -112,20 +110,13 @@
       <br>Kafka
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
-      <br>Elasticsearch
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
       <br>C++
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      <br>C
-    </td>
+    
+  </tr>
+
+  <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -139,33 +130,10 @@
       <br>GH Actions
     </td>
     <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
       <br>Bash
     </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="100">
+     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
       <br>Grafana
     </td>
