@@ -1,10 +1,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=300&section=header&text=PRABAL%20PRATAP%20SINGH&desc=Backend%20Developer%20%7C%20DevOps%20Enthusiast%20%7C%20Cloud%20Architect&animation=fadeIn&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
-</div>
-
-<div align="center">
   <img height="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
@@ -20,7 +16,9 @@
 
 ###
 
-<h1 align="center">Technical Skills</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=120&section=header&text=TECHNICAL%20SKILLS&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
+</div>
 
 
 <div align="center">
@@ -162,11 +160,10 @@
 </a>
 
 
-<h1 align="center">🌟 About Me</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,20&height=120&section=header&text=ABOUT%20ME&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
+</div>
 
-<br/>
-<br/>
-<br clear="both">
 
 <img align="right" height="360" src="https://i.gifer.com/9cIT.gif"  />
 
@@ -183,9 +180,19 @@
 
 <br clear="both">
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,0,20,9&height=120&section=header&text=COMMIT%20CANVAS&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
+</div>
+
+
 <a href="https://github.com/prabal864">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabal864&radius=16&theme=redical&area=true&hide_border=true" height="500" alt="activity-graph graph" />
 </a>
+
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,43,79,89&height=120&section=header&text=STREAK%20SYMPHONY&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
+</div>
 
 <div align="center">
   <a href="https://github.com/prabal864">
@@ -209,9 +216,13 @@
   </a>
 </div>
 
+<br/>
+<br/>
 
 
-<h1 align="left">Contact me</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=56,22,30,7&height=120&section=header&text=CONTACT%20ME&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
+</div>
 <div align="center">
   <a href="www.linkedin.com/in/pps940" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
@@ -227,7 +238,4 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="50" alt="youtube logo"  />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,13,29,35&height=150&section=footer" width="100%" />
-</div>
 
