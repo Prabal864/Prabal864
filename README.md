@@ -221,7 +221,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=56,22,30,7&height=120&section=header&text=CONTACT%20ME&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=56,22,99,7&height=120&section=header&text=CONTACT%20ME&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
 </div>
 <div align="center">
   <a href="www.linkedin.com/in/pps940" target="_blank">
