@@ -148,11 +148,14 @@
       <br>Sentry
     </td>
   </tr>
-</table>
+</table>f
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,4,7,0&height=120&section=header&text=TROPHY%20CABINET&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
+</div>
 
 <!-- Trophy Section with P tag -->
 <a href="https://github.com/prabal864">
@@ -238,4 +241,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="50" alt="youtube logo"  />
 </div>
 
-
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
