@@ -16,116 +16,244 @@
 
 ###
 
-<h1 align="center">🔧 Tools & Technologies</h1>
+# Technical Skills Portfolio
 
+<div align="center">
 
-<div align="center" style="background-color: #2C3E50; padding: 20px; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
-  <table align="center" cellspacing="50" style="width: 90%; text-align: center; font-family: Arial, sans-serif; border-spacing: 20px; color: #ECF0F1; font-size: 20px;">
-    <tr>
-      <th colspan="4" style="font-size: 36px; padding: 15px; background-color: #3498DB; color: white; border-radius: 10px; font-weight: bold;">🛠 DevOps</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://skillicons.dev/icons?i=jenkins" height="80" alt="jenkins logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=kafka" height="80" alt="kafka logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=sentry" height="80" alt="sentry logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.simpleicons.org/docker/2496ED" height="80" alt="docker logo" />
-        <br>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="80" alt="azure logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="80" alt="kubernetes logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="80" alt="ansible logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="80" alt="terraform logo" />
-        <br>
-      </td>
-    </tr>
-    <br/>
-    <tr>
-      <th colspan="4" style="font-size: 36px; padding: 15px; background-color: #E67E22; color: white; border-radius: 10px; font-weight: bold;">🌐 Frameworks</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" alt="react logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=express" height="80" alt="express logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="80" alt="spring logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo" />
-        <br>
-      </td>
-    </tr>
-    <tr>
-      <th colspan="4" style="font-size: 36px; padding: 15px; background-color: #27AE60; color: white; border-radius: 10px; font-weight: bold;">💻 Languages & Databases</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="80" alt="javascript logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" alt="typescript logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" alt="java logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" alt="cplusplus logo" />
-        <br>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="80" alt="c logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" alt="mysql logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="80" alt="mongodb logo" />
-        <br>
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="80" alt="redis logo" />
-        <br>
-      </td>
-    </tr>
-  </table>
-</div>
+# 💻 SKILL SHOWCASE
 
+## ⚡ Core Expertise
 
-<h1 align="center"></h1>
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" alt="Java" />
+      <br><strong>Java</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="65" height="65" alt="Spring" />
+      <br><strong>Spring</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+      <br><strong>AWS</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="65" height="65" alt="Docker" />
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React" />
+      <br><strong>React</strong>
+    </td>
+  </tr>
+</table>
+
+## 🚀 DevOps & Cloud
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="48" height="48" alt="Terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+      <br>Ansible
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+      <br>Kafka
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" />
+      <br>Sentry
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=argocd" width="48" height="48" alt="ArgoCD" />
+      <br>ArgoCD
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+  </tr>
+</table>
+
+## 🔥 Backend Development
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+  </tr>
+</table>
+
+## 🎨 Frontend Development
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
+
+## 💾 Databases & Data Engineering
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
+      <br>DynamoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cassandra" width="48" height="48" alt="Cassandra" />
+      <br>Cassandra
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
+      <br>Elasticsearch
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48" alt="Neo4j" />
+      <br>Neo4j
+    </td>
+  </tr>
+</table>
+
+## 🛠️ DevSecOps & Quality
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sonarqube" width="48" height="48" alt="SonarQube" />
+      <br>SonarQube
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+  </tr>
+</table>
+
 
 ###
 
