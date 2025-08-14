@@ -148,7 +148,7 @@
       <br>Sentry
     </td>
   </tr>
-</table>f
+</table>
 
 <br>
 
