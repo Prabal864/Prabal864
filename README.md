@@ -158,9 +158,9 @@
 </div>
 
 <!-- Trophy Section with P tag -->
-<a href="https://github.com/prabal864">
-  <img src="https://github-profile-trophy.vercel.app?username=prabal864&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true" width="100%" alt="trophy graph" />
-</a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prabal864&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="trophy graph" />
+</div>
 
 
 <div align="center">
