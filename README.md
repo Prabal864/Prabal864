@@ -159,7 +159,7 @@
 
 <!-- Trophy Section with P tag -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prabal864&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="trophy graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prabal864&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="trophy graph"/>
 </div>
 
 
