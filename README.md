@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="center" src="https://raw.githubusercontent.com/prabal864/prabal864/output/snake.svg" alt="Snake animation" />
+<img align="center" src="https://raw.githubusercontent.com/Prabal864/Prabal864/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -157,9 +157,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,4,7,0&height=120&section=header&text=TROPHY%20CABINET&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
 </div>
 
-<!-- Trophy Section with P tag -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prabal864&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="trophy graph"/>
+  <img src="https://github-profile-trophy.vercel.app/api?username=Prabal864&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="trophy graph"/>
 </div>
 
 
@@ -188,8 +187,8 @@
 </div>
 
 
-<a href="https://github.com/prabal864">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabal864&radius=16&theme=redical&area=true&hide_border=true" height="500" alt="activity-graph graph" />
+<a href="https://github.com/Prabal864">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabal864&radius=16&theme=redical&area=true&hide_border=true" height="500" alt="activity-graph graph" />
 </a>
 
 <br/>
@@ -198,11 +197,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/prabal864">
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabal864&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=e84393&border_radius=20" />
+  <a href="https://github.com/Prabal864">
+    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabal864&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=e84393&border_radius=20" />
   </a>
-  <a href="https://github.com/prabal864">
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=prabal864&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e84393&icon_color=e84393&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=20" />
+  <a href="https://github.com/Prabal864">
+    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Prabal864&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e84393&icon_color=e84393&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=20" />
   </a>
 </div>
 
@@ -211,11 +210,11 @@
 
 <!-- STREAK + PROFILE DETAILS -->
 <div align="center">
-  <a href="https://github.com/prabal864">
-    <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=prabal864&theme=radical&hide_border=true&background=0D1117&ring=e84393&fire=e84393&currStreakLabel=e84393&border_radius=20" />
+  <a href="https://github.com/Prabal864">
+    <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabal864&theme=radical&hide_border=true&background=0D1117&ring=e84393&fire=e84393&currStreakLabel=e84393&border_radius=20" />
   </a>
-  <a href="https://github.com/prabal864">
-    <img width="49%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabal864&theme=radical&border_radius=20" />
+  <a href="https://github.com/Prabal864">
+    <img width="49%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabal864&theme=radical&border_radius=20" />
   </a>
 </div>
 
