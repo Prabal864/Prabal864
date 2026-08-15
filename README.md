@@ -158,7 +158,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=Prabal864&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="trophy graph"/>
+  <img src="https://github-trophy-nine.vercel.app/?username=Prabal864&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=true" alt="trophy graph"/>
 </div>
 
 
@@ -198,10 +198,10 @@
 
 <div align="center">
   <a href="https://github.com/Prabal864">
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabal864&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=e84393&border_radius=20" />
+    <img width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabal864&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=e84393&border_radius=20" />
   </a>
   <a href="https://github.com/Prabal864">
-    <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Prabal864&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e84393&icon_color=e84393&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=20" />
+    <img width="49%" height="200px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabal864&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=e84393&icon_color=e84393&text_color=ffffff&count_private=true&include_all_commits=true&border_radius=20" />
   </a>
 </div>
 
@@ -211,7 +211,7 @@
 <!-- STREAK + PROFILE DETAILS -->
 <div align="center">
   <a href="https://github.com/Prabal864">
-    <img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabal864&theme=radical&hide_border=true&background=0D1117&ring=e84393&fire=e84393&currStreakLabel=e84393&border_radius=20" />
+    <img width="49%" height="200px" src="https://streak-stats.demolab.com/?user=Prabal864&theme=radical&hide_border=true&background=0D1117&ring=e84393&fire=e84393&currStreakLabel=e84393&border_radius=20" />
   </a>
   <a href="https://github.com/Prabal864">
     <img width="49%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabal864&theme=radical&border_radius=20" />
