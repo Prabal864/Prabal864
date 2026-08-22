@@ -163,22 +163,26 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,20&height=120&section=header&text=ABOUT%20ME&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,20,12,2&height=120&section=header&text=OPEN%20SOURCE&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
 </div>
 
+<div align="center">
 
-<img align="right" height="360" src="https://i.gifer.com/9cIT.gif"  />
+**2 merged · 7 in review** across 5 open-source projects
 
-###
+| Project | Contribution | Stars | Status |
+|---|---|---|---|
+| [keep](https://github.com/keephq/keep) | [fix(keep-provider): don't mutate the shared fingerprint_fields list](https://github.com/keephq/keep/pull/6720) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![merged](https://img.shields.io/badge/merged-8250df) |
+| [hertzbeat](https://github.com/apache/hertzbeat) | [Support notification template preview](https://github.com/apache/hertzbeat/pull/4338) | ![stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat&label=%E2%98%85&color=555) | ![merged](https://img.shields.io/badge/merged-8250df) |
+| [keep](https://github.com/keephq/keep) | [fix(iohandler): don't drop empty list/dict/tuple args to keep.* functions](https://github.com/keephq/keep/pull/6729) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
+| [keep](https://github.com/keephq/keep) | [fix(servicenow-provider): fix pagination, auth, and a NameError in notify_update](https://github.com/keephq/keep/pull/6724) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
+| [keep](https://github.com/keephq/keep) | [fix: extraction rule executions route to mapping execution pages](https://github.com/keephq/keep/pull/6718) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
+| [hertzbeat](https://github.com/apache/hertzbeat) | [Remove broken Push Style Monitor (app-push) support](https://github.com/apache/hertzbeat/pull/4339) | ![stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
+| [jabref](https://github.com/JabRef/jabref) | [fix: update stale ISBN/OCLC expectation in LibraryOfCongressTest](https://github.com/JabRef/jabref/pull/16644) | ![stars](https://img.shields.io/github/stars/JabRef/jabref?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
+| [hive](https://github.com/apache/hive) | [HIVE-28117: Fix misleading YYYY date pattern in add_months() documentation](https://github.com/apache/hive/pull/6718) | ![stars](https://img.shields.io/github/stars/apache/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
+| [iceberg](https://github.com/apache/iceberg) | [AWS: don't put a null value into clientCredentialsProviderProperties](https://github.com/apache/iceberg/pull/17752) | ![stars](https://img.shields.io/github/stars/apache/iceberg?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 
-<h2 align="left">
-🚀 Current Focus: Building cloud-native, production-grade backend systems with Spring Boot microservices.<br>
-💡 Skills: Proficient in Java 21, Spring Boot 3, Spring Cloud Suite, OAuth2/OIDC with Keycloak, Redis, Kafka, RabbitMQ, Docker, Kubernetes, and Helm.<br>
-📚 Learning: Enhancing distributed tracing with Jaeger and mastering CI/CD automation using GitHub Actions & Jenkins.<br>
-⚓ Designed and deployed scalable microservices architectures following 15-Factor App principles.<br>
-🛡️ Implemented service resilience patterns with Resilience4j and centralized auth with Keycloak.<br>
-📊 Built production-like observability stacks using Prometheus, Grafana, and Loki for monitoring.<br>
-</h2>
+</div>
 
 <br clear="both">
 
@@ -216,32 +220,6 @@
   <a href="https://github.com/Prabal864">
     <img width="49%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabal864&theme=radical&border_radius=20" />
   </a>
-</div>
-
-<br/>
-<br/>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,20,12,2&height=120&section=header&text=OPEN%20SOURCE&fontSize=60&fontAlignY=36&descAlignY=55&descSize=20" width="100%" />
-</div>
-
-<div align="center">
-
-**2 merged · 7 in review** across 5 open-source projects
-
-| Project | Contribution | Stars | Status |
-|---|---|---|---|
-| [keep](https://github.com/keephq/keep) | [fix(keep-provider): don't mutate the shared fingerprint_fields list](https://github.com/keephq/keep/pull/6720) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![merged](https://img.shields.io/badge/merged-8250df) |
-| [hertzbeat](https://github.com/apache/hertzbeat) | [Support notification template preview](https://github.com/apache/hertzbeat/pull/4338) | ![stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat&label=%E2%98%85&color=555) | ![merged](https://img.shields.io/badge/merged-8250df) |
-| [keep](https://github.com/keephq/keep) | [fix(iohandler): don't drop empty list/dict/tuple args to keep.* functions](https://github.com/keephq/keep/pull/6729) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
-| [keep](https://github.com/keephq/keep) | [fix(servicenow-provider): fix pagination, auth, and a NameError in notify_update](https://github.com/keephq/keep/pull/6724) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
-| [keep](https://github.com/keephq/keep) | [fix: extraction rule executions route to mapping execution pages](https://github.com/keephq/keep/pull/6718) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
-| [hertzbeat](https://github.com/apache/hertzbeat) | [Remove broken Push Style Monitor (app-push) support](https://github.com/apache/hertzbeat/pull/4339) | ![stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
-| [jabref](https://github.com/JabRef/jabref) | [fix: update stale ISBN/OCLC expectation in LibraryOfCongressTest](https://github.com/JabRef/jabref/pull/16644) | ![stars](https://img.shields.io/github/stars/JabRef/jabref?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
-| [hive](https://github.com/apache/hive) | [HIVE-28117: Fix misleading YYYY date pattern in add_months() documentation](https://github.com/apache/hive/pull/6718) | ![stars](https://img.shields.io/github/stars/apache/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
-| [iceberg](https://github.com/apache/iceberg) | [AWS: don't put a null value into clientCredentialsProviderProperties](https://github.com/apache/iceberg/pull/17752) | ![stars](https://img.shields.io/github/stars/apache/iceberg?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
-
 </div>
 
 <br/>
