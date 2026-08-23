@@ -168,7 +168,7 @@
 
 <div align="center">
 
-**2 merged · 2 approved · 10 in review** across 6 open-source projects
+**2 merged · 2 approved · 9 in review** across 6 open-source projects
 
 | Project | Contribution | Stars | Status |
 |:---|:---|:---:|:---:|
@@ -185,7 +185,6 @@
 | [hive · apache](https://github.com/apache/hive) | [HIVE-28117: Fix misleading YYYY date pattern in add_months() documentation](https://github.com/apache/hive/pull/6718) | ![stars](https://img.shields.io/github/stars/apache/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [iceberg](https://github.com/apache/iceberg) | [AWS: don't put a null value into clientCredentialsProviderProperties](https://github.com/apache/iceberg/pull/17752) | ![stars](https://img.shields.io/github/stars/apache/iceberg?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [hive · aden-hive](https://github.com/aden-hive/hive) | [fix(windows): preserve resolved MCP server cwd via env when cwd=None](https://github.com/aden-hive/hive/pull/7372) | ![stars](https://img.shields.io/github/stars/aden-hive/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
-| [hive · aden-hive](https://github.com/aden-hive/hive) | [fix(tasks): treat archived completed tasks as resolved blockers](https://github.com/aden-hive/hive/pull/7398) | ![stars](https://img.shields.io/github/stars/aden-hive/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 
 </div>
 
