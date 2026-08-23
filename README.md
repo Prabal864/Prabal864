@@ -168,7 +168,7 @@
 
 <div align="center">
 
-**3 merged · 1 approved · 6 in review** across 6 open-source projects
+**3 merged · 1 approved · 7 in review** across 6 open-source projects
 
 | Project | Contribution | Stars | Status |
 |:---|:---|:---:|:---:|
@@ -179,6 +179,7 @@
 | [keep](https://github.com/keephq/keep) | [fix(iohandler): don't drop empty list/dict/tuple args to keep.* functions](https://github.com/keephq/keep/pull/6729) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [keep](https://github.com/keephq/keep) | [fix(servicenow-provider): fix pagination, auth, and a NameError in notify_update](https://github.com/keephq/keep/pull/6724) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [keep](https://github.com/keephq/keep) | [fix: extraction rule executions route to mapping execution pages](https://github.com/keephq/keep/pull/6718) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
+| [keep](https://github.com/keephq/keep) | [fix(topology): scope alerts to the owning application before creating/updating incidents](https://github.com/keephq/keep/pull/6734) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [hive · apache](https://github.com/apache/hive) | [HIVE-28117: Fix misleading YYYY date pattern in add_months() documentation](https://github.com/apache/hive/pull/6718) | ![stars](https://img.shields.io/github/stars/apache/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [iceberg](https://github.com/apache/iceberg) | [AWS: don't put a null value into clientCredentialsProviderProperties](https://github.com/apache/iceberg/pull/17752) | ![stars](https://img.shields.io/github/stars/apache/iceberg?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [hive · aden-hive](https://github.com/aden-hive/hive) | [fix(windows): preserve resolved MCP server cwd via env when cwd=None](https://github.com/aden-hive/hive/pull/7372) | ![stars](https://img.shields.io/github/stars/aden-hive/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
