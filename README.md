@@ -182,9 +182,6 @@
 | [hive · apache](https://github.com/apache/hive) | [HIVE-28117: Fix misleading YYYY date pattern in add_months() documentation](https://github.com/apache/hive/pull/6718) | ![stars](https://img.shields.io/github/stars/apache/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [iceberg](https://github.com/apache/iceberg) | [AWS: don't put a null value into clientCredentialsProviderProperties](https://github.com/apache/iceberg/pull/17752) | ![stars](https://img.shields.io/github/stars/apache/iceberg?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [hive · aden-hive](https://github.com/aden-hive/hive) | [fix(windows): preserve resolved MCP server cwd via env when cwd=None](https://github.com/aden-hive/hive/pull/7372) | ![stars](https://img.shields.io/github/stars/aden-hive/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
-| [keep](https://github.com/keephq/keep) | [fix(step): don't crash when a single foreach reference resolves falsy](https://github.com/keephq/keep/pull/6726) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![closed](https://img.shields.io/badge/closed-d73a49) |
-| [keep](https://github.com/keephq/keep) | [fix(providers): guard against empty choices list in openai and deepseek providers](https://github.com/keephq/keep/pull/6717) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![closed](https://img.shields.io/badge/closed-d73a49) |
-| [jabref](https://github.com/JabRef/jabref) | [Fix crash when highlighting search terms containing regex metacharacters](https://github.com/JabRef/jabref/pull/16625) | ![stars](https://img.shields.io/github/stars/JabRef/jabref?style=flat&label=%E2%98%85&color=555) | ![closed](https://img.shields.io/badge/closed-d73a49) |
 
 </div>
 
