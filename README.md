@@ -168,7 +168,7 @@
 
 <div align="center">
 
-**4 merged · 1 approved · 5 in review** across 5 open-source projects
+**4 merged · 1 approved · 9 in review** across 5 open-source projects
 
 | Project | Contribution | Stars | Status |
 |:---|:---|:---:|:---:|
@@ -176,8 +176,12 @@
 | **[hertzbeat](https://github.com/apache/hertzbeat)** | [[feature][alerter] Support notification template preview](https://github.com/apache/hertzbeat/pull/4338) | ![stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat&label=%E2%98%85&color=555) | ![merged](https://img.shields.io/badge/merged-8250df) |
 | **[keep](https://github.com/keephq/keep)** | [fix(keep-provider): don't mutate the shared fingerprint_fields list](https://github.com/keephq/keep/pull/6720) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![merged](https://img.shields.io/badge/merged-8250df) |
 | **[jabref](https://github.com/JabRef/jabref)** | [fix: update stale ISBN/OCLC expectation in LibraryOfCongressTest](https://github.com/JabRef/jabref/pull/16644) | ![stars](https://img.shields.io/github/stars/JabRef/jabref?style=flat&label=%E2%98%85&color=555) | ![merged](https://img.shields.io/badge/merged-8250df) |
-| [hive · aden-hive](https://github.com/aden-hive/hive) | [fix(windows): preserve resolved MCP server cwd via env when cwd=None](https://github.com/aden-hive/hive/pull/7372) | ![stars](https://img.shields.io/github/stars/aden-hive/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [hive · apache](https://github.com/apache/hive) | [HIVE-28117: Fix misleading YYYY date pattern in add_months() documentation](https://github.com/apache/hive/pull/6718) | ![stars](https://img.shields.io/github/stars/apache/hive?style=flat&label=%E2%98%85&color=555) | ![approved](https://img.shields.io/badge/approved-0969da) |
+| [keep](https://github.com/keephq/keep) | [feat(ui): add confirmation dialog before deleting incident enrichments](https://github.com/keephq/keep/pull/6741) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
+| [keep](https://github.com/keephq/keep) | [fix(topology): preserve incident continuity and application identity across topology re-imports](https://github.com/keephq/keep/pull/6740) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
+| [hive · aden-hive](https://github.com/aden-hive/hive) | [docs: remove stale references to deleted editor and MCP configs](https://github.com/aden-hive/hive/pull/7404) | ![stars](https://img.shields.io/github/stars/aden-hive/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
+| [keep](https://github.com/keephq/keep) | [fix(topology): raise incidents for standalone services with no application](https://github.com/keephq/keep/pull/6737) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
+| [hive · aden-hive](https://github.com/aden-hive/hive) | [fix(windows): preserve resolved MCP server cwd via env when cwd=None](https://github.com/aden-hive/hive/pull/7372) | ![stars](https://img.shields.io/github/stars/aden-hive/hive?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [keep](https://github.com/keephq/keep) | [fix(topology): scope alerts to the owning application before creating/updating incidents](https://github.com/keephq/keep/pull/6734) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [keep](https://github.com/keephq/keep) | [fix(iohandler): don't drop empty list/dict/tuple args to keep.* functions](https://github.com/keephq/keep/pull/6729) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
 | [keep](https://github.com/keephq/keep) | [fix(servicenow-provider): fix pagination, auth, and a NameError in notify_update](https://github.com/keephq/keep/pull/6724) | ![stars](https://img.shields.io/github/stars/keephq/keep?style=flat&label=%E2%98%85&color=555) | ![open](https://img.shields.io/badge/open-2da44e) |
